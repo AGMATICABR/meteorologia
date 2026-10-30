@@ -1,0 +1,6 @@
+metpy==1.7.1
+matplotlib>=3.5.0
+pandas>=1.4.0
+requests
+numpy
+gradio
